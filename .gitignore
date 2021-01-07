@@ -1,0 +1,7 @@
+# arquivos muito grandes da competicao de reconhecimento de digitos
+digit-recognizer/train.csv
+digit-recognizer/test.csv
+digit-recognizer/figures/digits/
+
+# diretorios temporarios python
+__pycache__/
