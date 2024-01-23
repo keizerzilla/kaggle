@@ -1,1 +1,0 @@
-Os arquivos train.csv e test.csv foram omitidos via .gitignore por questão de tamanho do arquivo e limitações do GitHub. Para poder usar esse código, baixo os datasets na páginda da competição no kaggle: https://www.kaggle.com/c/digit-recognizer/data.
